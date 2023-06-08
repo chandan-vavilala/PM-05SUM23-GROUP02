@@ -44,7 +44,7 @@
 
 ## Content Summary
 
-[click here](summary.md) to view the content summary for the project
+[click here](Summary.md) to view the content summary for the project
 
 ## Group Plan
 
