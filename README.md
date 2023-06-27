@@ -7,7 +7,7 @@
    <strong>Project Title   :   </strong> SmartSecure <br>
    <strong>Team Name       :   </strong> Innovators Unite <br>
    <strong>Logo            : <br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="Images/logo.jpg" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="logo.jpg" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
     
 ## Team Members
 
