@@ -5,20 +5,19 @@
 
 ## Project
    <strong>Project Title   :   </strong> SmartSecure <br>
-   <strong>Team Name       :   </strong> Innovators Unite <br>
+   <strong>Team Name       :   </strong> Innovators Unites <br>
    <strong>Logo            : <br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <img class='img-circle' src="logo.jpg" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;      <img class='img-circle' src="logo.jpg" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
     
 ## Team Members
 
-<img class='img-circle' src="Images/Name1.jpeg" alt="drawing" width="100" style="border-radius:50%" />  <img class='img-circle' src="Images/Name2.jpg" alt="drawing" width="100" style="border-radius:50%" /> &nbsp; 
-<img class='img-circle' src="Images/Name3.jpg" alt="drawing" width="100" style="border-radius:50%" />  &nbsp;  <img src="Images/Name4.png" alt="drawing" width="100" style="border-radius:50%"/>   <img class='img-circle' src="Images/Name5.jpeg" alt="drawing" width="100" style="border-radius:50%" />               <img class='img-circle' src="Images/Name6.jpeg" alt="drawing" width="100" style="border-radius:50%" />
-                 <img class='img-circle' src="Images/Name7.jpg" alt="drawing" width="100" style="border-radius:50%">               
+<img class='img-circle' src="Chandan.jpg" alt="drawing" width="100" style="border-radius:50%" />  <img class='img-circle' src="Prashanth.jpg" alt="drawing" width="100" style="border-radius:50%" /> &nbsp; 
+<img class='img-circle' src="Ashok.jpg" alt="drawing" width="100" style="border-radius:50%" />  &nbsp;  <img src="Sumanasri.jpg" alt="drawing" width="100" style="border-radius:50%"/>   <img class='img-circle' src="Ribkarani.jpg" alt="drawing" width="100" style="border-radius:50%" />               <img class='img-circle' src="Ashwanth.jpg" alt="drawing" width="100" style="border-radius:50%" />
+                       
 
 
 
-
-  [Poorna Chandan Reddy Vavilala](https://github.com/chandan-vavilala) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Name1](https://github.com/Name1)             &nbsp;&nbsp;&nbsp;&nbsp;   [Name2](https://github.com/Name2)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Name3](https://github.com/Name3) &nbsp;&nbsp;  [Name4](https://github.com/Name4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Name5](https://github.com/Name5)             &nbsp;&nbsp;&nbsp;&nbsp;   [Name6](https://github.com/Name6)   
+  [Poorna Chandan Reddy Vavilala](https://github.com/chandan-vavilala) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sai Prashanth Volete](https://github.com/s559234)             &nbsp;&nbsp;&nbsp;&nbsp;   [Ashok Chirumamilla](https://github.com/ashok-gitrepos)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Annam Ribkarani](https://github.com/ribkaraniannam) &nbsp;&nbsp;  [Sumanasri Paila](https://github.com/Sumanareddy13) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ashwanth Reddy Cheemarla](https://github.com/AshwanthS559214)
 
 
 
@@ -28,23 +27,23 @@
 |     Team Member               | Role              | 
 | -------------                 |:-------------:    |
 | Poorna Chandan Reddy Vavilala | Project Mangaer   | 
-| Name 1                        | Scrum Master      | 
-| Name2                         | UI Developer      |  
-| Name3                         | Backend Developer |
-| Name4                         | Devops Engineer   | 
-| Name5                         | Business Analyst  |  
-| Name6                         | Tester            |
+| Sai Prashanth Volete          | Senior Software Engineer | 
+| Ashok Chirumamilla            | Scrum Master     |  
+| Sumanasri Paila               | HR |
+| Annam Ribkarani               | Business Analyst   | 
+| Ashwanth Reddy Cheemarla      | Tester |
 
 ## Key Contributions
-<li>Poorna Chandan Reddy Vavilala is Project Managaer Leading the project
-<li>Name1 will be the scrum master and will be managing the team</li>
-<li>Name2 will be UI Developer in the team</li>
-<li>Name3 will be as a business analyst</li>
-<li>Name4 wiil be act as a tester in the team</li>
+<li>Poorna Chandan Reddy Vavilala is Project Managaer Leading the project </li>
+<li>Sai Prashanth Volete will be Senior Software Engineer and will be managing Updates </li>
+<li>Ashok Chirumamilla will be Scrum Master in the team</li>
+<li>Sumanasri Paila will be HR in the team</li>
+<li>Annam Ribkarani will be Business Analyst in the team</li>
+<li>Ashwanth Reddy Cheemarla will be Tester in the team</li>
 
 ## Content Summary
 
-[click here](Summary.md) to view the content summary for the project
+[Click here](Summary.md) to view the content summary for the project
 
 ## Group Plan
 
