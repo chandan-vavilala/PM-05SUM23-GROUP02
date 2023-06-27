@@ -7,18 +7,19 @@
    <strong>Project Title   :   </strong> SmartSecure <br>
    <strong>Team Name       :   </strong> Innovators Unites <br>
    <strong>Logo            : <br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;      <img class='img-circle' src="logo.jpg" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;      
+    <img class='img-circle' src="logo.jpg" alt="drawing" width=150px  style="border-radius:10px width=50px" />   </strong> <br>
     
 ## Team Members
 
-<img class='img-circle' src="Chandan.jpg" alt="drawing" width="100" style="border-radius:50%" />   [Poorna Chandan Reddy Vavilala](https://github.com/chandan-vavilala) <br>
+<img class='img-circle' src="Chandan.png" alt="drawing" width="100" style="border-radius:50%" />   [Poorna Chandan Reddy Vavilala](https://github.com/chandan-vavilala) <br>
 <img class='img-circle' src="Prashanth.jpg" alt="drawing" width="100" style="border-radius:50%" /> [Sai Prashanth Volete](https://github.com/s559234) <br>
 <img class='img-circle' src="Ashok.jpg" alt="drawing" width="100" style="border-radius:50%" />     [Ashok Chirumamilla](https://github.com/ashok-gitrepos) <br>
 <img class='img-circle' src="Sumanasri.jpg" alt="drawing" width="100" style="border-radius:50%"/>  [Annam Ribkarani](https://github.com/ribkaraniannam) <br>
 <img class='img-circle' src="Ribkarani.jpg" alt="drawing" width="100" style="border-radius:50%" /> [Sumanasri Paila](https://github.com/Sumanareddy13)   <br>             
 <img class='img-circle' src="Ashwanth.jpg" alt="drawing" width="100" style="border-radius:50%" />  [Ashwanth Reddy Cheemarla](https://github.com/AshwanthS559214) <br>
-                     
 
+                
 
 
 
